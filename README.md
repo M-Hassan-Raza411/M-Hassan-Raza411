@@ -56,8 +56,7 @@ GitHub Activity
   <img src="https://github-readme-stats.vercel.app/api?username=M-Hassan-Raza411&show_icons=true&hide_border=true&theme=github_dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza411&layout=compact&hide_border=true&theme=github_dark" width="48%" />
 </p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza411&layout=compact&theme=github_dark&hide_border=true" />
-</p><p align="center">
+  <img src="https://github-<p align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=M-Hassan-Raza411&theme=github-dark-blue&hide_border=true" />
 </p>---
 
