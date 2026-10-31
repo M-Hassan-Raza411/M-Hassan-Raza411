@@ -2,7 +2,7 @@ Muhammad Hassan Raza
 
 Full-Stack Developer · Karachi, Pakistan
 
-I build web applications and work across frontend, backend, and databases. I enjoy exploring how different technologies work together and turning ideas into functional software.
+I build web applications and work across frontend, backend, and databases. Interested in understanding how things work under the hood, not just making them work.
 
 Currently working with React, Next.js, Node.js, PHP, and C#.
 
@@ -12,25 +12,27 @@ Currently working with React, Next.js, Node.js, PHP, and C#.
 
 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,cs,php,html,css&theme=dark" alt="JavaScript, Java, C#, PHP, HTML, CSS" />
-</p>Frontend
+"Languages" (https://skillicons.dev/icons?i=js,java,cs,php,html,css)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite&theme=dark" alt="React, Next.js, Redux, Tailwind CSS, Bootstrap, Vite" />
-</p>Backend & Databases
+Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase,firebase&theme=dark" alt="Node.js, MySQL, MongoDB, Supabase, Firebase" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-</p>CMS & Development Tools
+"Frontend" (https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman,npm,netlify&theme=dark" alt="WordPress, Git, GitHub, VS Code, Postman, npm, Netlify" />
-</p>Other Technologies
+Backend & Databases
+
+"Backend" (https://skillicons.dev/icons?i=nodejs,mysql,mongodb,supabase,firebase)
+
+"SQL Server" (https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+CMS & Tools
+
+"Tools" (https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman,npm,netlify)
+
+Other Technologies
 
 - React Native
-- REST APIs & Axios
+- REST APIs
+- Axios
 - JavaScript DOM & Browser APIs
 - Local Storage
 - Responsive Web Design
@@ -49,16 +51,13 @@ More projects: "GitHub Repositories" (https://github.com/M-Hassan-Raza411?tab=re
 
 ---
 
-GitHub Statistics
+GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Hassan-Raza411&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hassan-Raza411&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most used languages" />
-</p>Contribution Activity
+""GitHub Profile" (https://img.shields.io/badge/GitHub-M--Hassan--Raza411-181717?style=for-the-badge&logo=github)" (https://github.com/M-Hassan-Raza411)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Hassan-Raza411&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>---
+"View my repositories and contribution activity" (https://github.com/M-Hassan-Raza411)
+
+---
 
 <p align="center">
   <sub>Building things. Learning along the way.</sub>
