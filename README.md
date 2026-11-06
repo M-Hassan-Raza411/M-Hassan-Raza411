@@ -2,7 +2,7 @@ Muhammad Hassan Raza
 
 Full-Stack WEB and APP Developer · Karachi, Pakistan
 
-Hey! I'm Hassan. I build web applications, experiment with different technologies, and enjoy figuring out how things work behind the scenes.
+Hello! I'm Hassan Raza . I build web applications, experiment with different technologies, and enjoy figuring out how things work behind the scenes.
 
 I'm interested in more than just getting an application to run. I like understanding the logic, exploring different approaches, and seeing how frontend, backend, and databases fit together to make something useful.
 
